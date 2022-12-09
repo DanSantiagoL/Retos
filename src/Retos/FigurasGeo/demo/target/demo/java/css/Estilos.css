@@ -1,0 +1,68 @@
+body{
+    font-family: Verdana;
+    background: #E6FBFE;
+}
+.menuPrincipal
+{
+    list-style: none;
+    padding: 0;
+    background: #002328;
+    width: 100%px;
+    text-align: center;
+    
+}
+
+.menuPrincipal li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+
+.menuPrincipal li{
+    display: inline-block;
+    text-align: center;
+}
+.menuPrincipal li a:hover{
+    background: #33BDD1;
+}
+#figura{ 
+float:left; 
+}
+
+#flechaIzquierda{ 
+    float:left; 
+    }
+#flechaDerecha{
+    float:right;
+}
+
+    
+.botonEnviar{
+    
+    font-family: Verdana;
+    font-size:15px;
+    color: white;
+    width: 100px;
+    height:30px;
+    background: #002328;
+}
+.botonEnviar:active{
+    background: #33BDD1;
+}
+#CalcularFigura1{
+    background-color: #33BDD1;
+    color: white;
+    width: 1300px;
+    padding: 20px;
+    text-align:center
+    
+}
+h2{
+    font-family: verdana;
+    background: #33BDD1 ;
+    border: #33BDD1 15px solid;
+    color: white;
+    border-radius: 20px;
+    text-align:center
+}
